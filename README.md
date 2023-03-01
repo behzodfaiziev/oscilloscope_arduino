@@ -1,16 +1,5 @@
-# osciloscope_arduino
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# osciloscope_arduino![1 off_light-min](https://user-images.githubusercontent.com/63793311/222067539-120cf8c5-3618-46ee-98bf-a1f62f57cd24.jpg)
+![2 45 percent of light-min](https://user-images.githubusercontent.com/63793311/222067556-7d049407-8c6f-4c49-973e-bc769be8d7af.jpg)
+![3  light is higher than refence-min](https://user-images.githubusercontent.com/63793311/222067568-ee8d83e1-51e0-4c39-89ff-ae1963fb1b9f.jpg)
+![4 off state after 3rd image-min](https://user-images.githubusercontent.com/63793311/222067594-ae8dc03c-c7e1-4d0c-9b69-9db36263ac75.jpg)
+![20230101_230237-min](https://user-images.githubusercontent.com/63793311/222067604-8088a95f-7064-4607-89bc-ff14daaf13aa.jpg)
